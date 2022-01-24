@@ -50,8 +50,4 @@ Mempelajari :
   - Align Self
   - Place Self
 
-- My Gallery
-
-- 
-
-  - 
+- Web Sederhana
